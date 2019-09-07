@@ -5,10 +5,10 @@ description: "รวม 19 สถานที่ทำพาสปอร์ต �
 type: "featured"
 image: "images/featured-post/post-3.jpg"
 categories: 
-  - "Nature"
+  - "Travel"
 tags:
-  - "Fashion"
-  - "Nature"
+  - "Travel"
+  - "Passport"
 ---
 
 
