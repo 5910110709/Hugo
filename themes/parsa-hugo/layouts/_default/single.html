@@ -49,10 +49,10 @@
 						<span style="margin-top:2px">เดินทางช่วง</span>
 						<i class="fas fa-plus" style="float:right;" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"></i>
 					</div>
-					<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+					<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion"><!-- style="margin-top: 15px;margin-left: 13px;" -->
 							<ul class="list-group" >
 							{{ range .Params.Time }}
-								 <li class="list-group-item" style="margin-top: 0px;margin-bottom:0px; height: 80px;padding-top:2px"><i class="far fa-clock"></i>  {{.}}  <button style="margin-top: 15px;margin-left: 13px;" type="button" class="btn btn-primary btn-sm">จอง</button></li>
+								 <li class="list-group-item" style="margin-top: 0px;margin-bottom:0px; height: 80px;padding-top:2px"><i class="far fa-clock"></i>  {{.}}  <h5 style="float:right;"><span class="badge badge-primary">จอง</span></h5></li>
 							{{end}}
 							</ul>
 						
