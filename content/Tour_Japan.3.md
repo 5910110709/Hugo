@@ -14,4 +14,10 @@ locations:
      -  "หมู่บ้านชิราคาวาโกะ "
      - "สวนดอกไม้ฮานะโนะมิยาโกะ"
 costs: "37,200"
+image_air: "images/airplane/air-asia-x-logo.svg"
+
+total_date: "5วัน 2คืน"
+time:
+      - "11 ก.ย. 62 - 15 ก.ย. 62"
+      - "13 ก.ย. 62 - 17 ก.ย. 62"
 ---
