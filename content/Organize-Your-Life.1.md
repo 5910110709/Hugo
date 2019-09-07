@@ -1,5 +1,5 @@
 ---
-title: "Top 10 สถานที่ฉลองปีใหม่สุดคูล Countdown to New Year 2020"
+title: "Top 10 สถานที่ฉลองปีใหม่สุดคูล"
 date: 2019-05-14T14:46:10+06:00
 description: "Top 10 สถานที่ฉลองปีใหม่สุดคูล Countdown to New Year 2020"
 type: "featured"
