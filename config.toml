@@ -52,19 +52,19 @@ paginate = 6
 [menu]
     
   [[menu.main]]
-  name = "About"
+  name = "เกี่ยวกับบริษัท"
   URL = "about"
   weight = 2
   
   [[menu.main]]
-  name = "Contact"
+  name = "ติดต่อเรา"
   URL = "contact"
   weight = 3
 
 
 [params]
-logo = "images/logo.png"
-home = "Home"
+logo = "images/logo3.png"
+home = "หน้าหลัก"
 # hompage layout ( two layout is available,  you can set the another layout by change the value of homeLayoutToggle "true" to "false")
 homeLayoutToggle = true
 # Meta data

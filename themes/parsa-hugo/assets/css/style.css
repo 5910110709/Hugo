@@ -458,6 +458,10 @@ textarea.form-control {
   padding: 20px 15px;
 }
 
+.navbar .nav-item a{
+  font-family: 'Kanit', sans-serif;
+}
+
 @media (max-width: 991px) {
   .navbar .nav-item .nav-link {
     padding: 10px;
