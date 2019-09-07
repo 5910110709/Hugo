@@ -1,5 +1,5 @@
 ---
-title: "INCRIDIBLE TOUR IN SOUL"
+title: "ช้อปปิ้งที่ชินซาดง"
 date: 2019-05-14T14:46:10+06:00
 description: "This is meta description"
 type: "post"
@@ -13,7 +13,7 @@ tags:
 #list ของเมืองที่จะไป
 locations: 
      - "กรุงโซล"
-     - "ชินดง"
+     - "ชินซาดง"
 
 #ค่าใช้จ่ายการเดินทาง
 costs: "20,000"
