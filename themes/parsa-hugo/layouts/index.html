@@ -28,8 +28,11 @@
   <div class="jumbotron jumbotron-fluid bg-white" style="margin-top: 5px;">
 	<div class="container">
 		<p class="display-4">OUR RECOMMENDATIONS</p>
-		<a href="{{ "tags/" | relLangURL }}japan/"><img src="images/1200px-Flag_of_Japan.svg.png" style="width:180px;height:120px;"></a>
-		<a href="{{ "tags/" | relLangURL }}korea/"><img src="images/Flag_of_South_Korea.svg" style="width:180px;height:120px;"></a>
+		{{ range (where .Data.Pages "Type" "images")}}
+			{{range .Params.Image_flag}}
+			<a href="{{ "tags/" | relLangURL }}japan/"><img src="{{.}}" style="width:180px;height:120px;"></a>
+			{{end}}
+		{{ end }}
 	</div>
   </div>
   <!-- jumbotron -->
