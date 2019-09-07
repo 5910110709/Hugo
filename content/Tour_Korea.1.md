@@ -5,12 +5,27 @@ description: "This is meta description"
 type: "post"
 image: "images/korea/tour.jpg"
 categories: 
-  - "Nature"
+  - "Korea"
 tags:
   - "Photos"
-  - "Nature"
   - "Korea"
+
+#list ของเมืองที่จะไป
 locations: 
-     -  "กรุงโซล"
+     - "กรุงโซล"
      - "ชินดง"
+
+#ค่าใช้จ่ายการเดินทาง
+costs: "20,000"
+
+#ทัวร์การบิน
+image_air: "images/airplane/air-asia-x-logo.svg"
+
+#จำนวนวัน
+total_date: "5วัน 4คืน"
+
+#ระยะเวลาวัน
+time:
+     -  "21 ก.ย. 63 - 25 ก.ย. 63"
+     -  "10 ต.ค. 63 - 14 ต.ค. 63"
 ---
