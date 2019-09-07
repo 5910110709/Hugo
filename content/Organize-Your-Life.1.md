@@ -1,56 +1,23 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
+title: "เที่ยวได้ ไม่ต้องง้อวีซ่า"
 date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
+description: "32 ประเทศที่คนไทยไม่ต้องขอวีซ่า 2019"
 type: "featured"
-image: "images/featured-post/post-2.jpg"
+image: "images/featured-post/post-1.jpg"
 categories: 
-  - "Philosophy"
+  - "Travel"
 tags:
-  - "Philosophy"
-  - "Photos"
+  - "Travel"
+  - "Knowledge"
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+เคยไหม ? จะเดินทางไปต่างประเทศทั้งที ต้องมาสะดุดกับการขอวีซ่า หลายคน งง สับสน สงสัย เอ้ามี Passport แล้วนี่ยังไปต่างประเทศไม่ได้เหรอ ต้องทำอะไรอีก
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+หนังสือเดินทาง : Passport คือหนังสือที่จะออกให้กับประชาชน สำหรับการเดินทางไปต่างประเทศ เป็นเอกสารที่รับรองเอกลักษณ์ และสัญชาติของผู้ถือโดยรัฐบาลของแต่ละประเทศ สำหรับการเดินทางระหว่างประเทศ ส่วนประกอบของเอกลักษณ์คือ ชื่อ, วัน เดือน ปีเกิด, เพศ และสัญชาติ หนังสือเดินทางไม่ได้ให้สิทธิ์ผู้ถือเข้าไปในประเทศอื่น และไม่ให้ความคุ้มครองหรือสิทธิ์อื่นๆ ขณะอยู่ต่างประเทศ  หนังสือเดินทางออกโดย สถานที่ทำพาสปอร์ต ในกรุงเทพฯ และต่างจังหวัดสำนักงานหนังสือเดินทาง กรมการกงสุล วีซ่า : Visa ถือเป็นหลักฐานในการอนุญาตเข้าประเทศที่ทำเป็นรอยตราประทับหรือที่เป็นแผ่นกระดาษสติ๊กเกอร์ติดอยู่ใน หนังสือเดินทาง : Passport เป็นหลักปฏิบัติการเดียวกันทั่วโลก แต่ก็มีข้อยกเว้นสำหรับบางประเทศซึ่งได้ทำความตกลงไม่ต้องขอวีซ่าระหว่างกัน
 
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+> สำหรับคนไทยในปี 2019 มี 32 ประเทศ ที่ไม่ต้องขอวีซ่า ข้อมูลจากกรมการกงสุล กระทรวงการต่างประเทศ ก็ได้มีการอัปเดตรายชื่อประเทศและดินแดนที่คนไทยไม่ต้องขอวีซ่าเพิ่มเติม โดยมีรายชื่อ ดังนี้
 
 
-![](../images/post-img.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-
+![](../images/List_FreeVisa.jpg)

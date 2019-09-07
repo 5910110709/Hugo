@@ -9,6 +9,7 @@ VERSION:	Versoin Number
 -------------------------------------------------------------------*/
 /*  typography */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Playfair+Display:400,700");
+@import url('https://fonts.googleapis.com/css?family=Kanit|Sarabun&display=swap');
 @font-face {
   font-family: 'hanskendrick';
   src: url("../fonts/hanskendrick-regular-webfont.woff") format("woff");
@@ -28,12 +29,12 @@ p, .paragraph {
   font-weight: 400;
   font-size: 15px;
   line-height: 1.5;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Sarabun', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #000000;
-  font-family: "hanskendrick";
+  font-family: 'Kanit', sans-serif;
   font-weight: 600;
   line-height: 1.2;
 }
