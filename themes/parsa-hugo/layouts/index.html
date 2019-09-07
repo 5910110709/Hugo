@@ -27,15 +27,17 @@
   <!-- jumbotron -->
   <div class="jumbotron jumbotron-fluid bg-white" style="margin-top: 5px;">
 	<div class="container">
-		<p class="display-4">OUR RECOMMENDATIONS</p>
-			<a href="{{ "tags/" | relLangURL }}japan/"><img src="/images/1200px-Flag_of_Japan.svg.png" style="width:180px;height:120px;"></a>
-			<a href="{{ "tags/" | relLangURL }}korea/"><img src="/images/Flag_of_South_Korea.svg" style="width:180px;height:120px;"></a>
-	</div>
+		<p class="display-4 text-center">OUR RECOMMENDATIONS</p>
+      <div class="text-center">
+			  <a href="{{ "tags/" | relLangURL }}japan/" class=><img src="/images/1200px-Flag_of_Japan.svg.png" style="width:180px;height:120px;"></a>
+			  <a href="{{ "tags/" | relLangURL }}korea/"><img src="/images/Flag_of_South_Korea.svg" style="width:180px;height:120px;"></a>
+      </div>
+  </div>
   </div>
   <!-- jumbotron -->
 
   <!-- blog post -->
-  <section class="section">
+  <section class="section" style="padding-top: 0">
     <div class="container">
       <div class="row masonry-container">
         {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
@@ -46,7 +48,7 @@
             <p class="text-uppercase mb-2">{{.Params.Categories}}</p>
             <h4 class="title-border"><a class="text-dark" href="{{.Permalink}}">{{.Title}}</a></h4>
             <p>{{.Summary}}</p>
-            <a href="{{.Permalink}}" class="btn btn-transparent">read more</a>
+            <a href="{{.Permalink}}" class="btn btn-transparent">อ่านเพิ่มเติม</a>
           </article>
         </div>
         {{ end }}

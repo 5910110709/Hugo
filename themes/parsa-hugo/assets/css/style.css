@@ -404,6 +404,7 @@ a.text-dark:hover {
 }
 
 .form-control {
+  font-family: 'Sarabun', sans-serif;
   border: 0;
   border-bottom: 1px solid #ababab;
   border-radius: 0;
